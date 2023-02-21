@@ -1,0 +1,28 @@
+@media only screen and (max-width: 822px) {
+  header {
+    padding: 30px 16px;
+  }
+  header .logo {
+    font-size: 0.8rem;
+  }
+
+  header ul {
+    gap: 8px;
+  }
+
+  header ul li a {
+    font-size: 0.5rem;
+  }
+
+  .sec {
+    padding: 32px;
+  }
+
+  #text {
+    font-size: 15vw;
+  }
+
+  #btn {
+    transform: translateY(80px);
+  }
+}
